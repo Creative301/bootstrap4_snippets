@@ -1,0 +1,7 @@
+// Hide hamburger menu border and outline
+.navbar-toggler {
+  border: none;
+  &:focus {
+    outline: none;
+  }
+}
